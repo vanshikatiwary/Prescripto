@@ -5,5 +5,7 @@ This project is a Doctor Appointment Booking System frontend, built with React.j
 The project includes a three-level authentication system:
 
 Patient Login: Patients can log in to the website, book appointments with doctors, and manage their scheduled appointments.
+
 Doctor Login: Doctors can log in to view their appointments and track earnings. They can also update their profiles from the dashboard.
+
 Admin Dashboard: The admin has access to manage all appointments and doctor profiles, ensuring smooth operation and accurate records.
