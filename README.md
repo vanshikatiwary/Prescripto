@@ -3,7 +3,6 @@
 Prescripto is a **Doctor Appointment Booking System** built using **React.js** and **Tailwind CSS**.  
 It enables **patients** to book appointments with doctors efficiently, displaying only available time slots for a smooth booking experience.  
 
----
 
 ## 🚀 Features  
 
@@ -24,7 +23,6 @@ It enables **patients** to book appointments with doctors efficiently, displayin
 ✅ **Oversee doctor profiles** and verify credentials  
 ✅ **Maintain accurate records and system integrity**  
 
----
 
 ## 🏗️ Tech Stack  
 
@@ -36,5 +34,4 @@ It enables **patients** to book appointments with doctors efficiently, displayin
 | **JWT Authentication** | Secure login system |
 | **Vercel** | Deployment |
 
----
 
